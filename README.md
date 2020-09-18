@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![JackChen github status](https://github-readme-stats.vercel.app/api?username=JackWchen2015&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![JackChen github status](https://github-readme-stats.vercel.app/api?username=JackWchen2015&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
