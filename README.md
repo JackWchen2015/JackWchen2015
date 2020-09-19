@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+theme pragmma
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+-->
 [![JackChen github status](https://github-readme-stats.vercel.app/api?username=JackWchen2015&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
